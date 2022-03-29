@@ -1,0 +1,50 @@
+c:\users\neşetcan\documents\visual studio 2013\Projects\My_Web_Site\My_Web_Site\bin\My_Web_Site.dll.config
+c:\users\neşetcan\documents\visual studio 2013\Projects\My_Web_Site\My_Web_Site\bin\My_Web_Site.dll
+c:\users\neşetcan\documents\visual studio 2013\Projects\My_Web_Site\My_Web_Site\bin\My_Web_Site.pdb
+c:\users\neşetcan\documents\visual studio 2013\Projects\My_Web_Site\My_Web_Site\bin\My_Web_Site.xml
+c:\users\neşetcan\documents\visual studio 2013\Projects\My_Web_Site\My_Web_Site\obj\Debug\My_Web_Site.Resources.resources
+c:\users\neşetcan\documents\visual studio 2013\Projects\My_Web_Site\My_Web_Site\obj\Debug\My_Web_Site.vbproj.GenerateResource.Cache
+c:\users\neşetcan\documents\visual studio 2013\Projects\My_Web_Site\My_Web_Site\obj\Debug\My_Web_Site.dll
+c:\users\neşetcan\documents\visual studio 2013\Projects\My_Web_Site\My_Web_Site\obj\Debug\My_Web_Site.xml
+c:\users\neşetcan\documents\visual studio 2013\Projects\My_Web_Site\My_Web_Site\obj\Debug\My_Web_Site.pdb
+D:\Neşet\Proje\My_Web_Site\My_Web_Site\bin\My_Web_Site.dll.config
+D:\Neşet\Proje\My_Web_Site\My_Web_Site\bin\My_Web_Site.dll
+D:\Neşet\Proje\My_Web_Site\My_Web_Site\bin\My_Web_Site.pdb
+D:\Neşet\Proje\My_Web_Site\My_Web_Site\bin\My_Web_Site.xml
+D:\Neşet\Proje\My_Web_Site\My_Web_Site\obj\Debug\My_Web_Site.Resources.resources
+D:\Neşet\Proje\My_Web_Site\My_Web_Site\obj\Debug\My_Web_Site.vbproj.GenerateResource.Cache
+D:\Neşet\Proje\My_Web_Site\My_Web_Site\obj\Debug\My_Web_Site.dll
+D:\Neşet\Proje\My_Web_Site\My_Web_Site\obj\Debug\My_Web_Site.xml
+D:\Neşet\Proje\My_Web_Site\My_Web_Site\obj\Debug\My_Web_Site.pdb
+C:\Users\gs_ec\Desktop\Neşet\Proje\My_Web_Site\My_Web_Site\bin\My_Web_Site.dll.config
+C:\Users\gs_ec\Desktop\Neşet\Proje\My_Web_Site\My_Web_Site\bin\My_Web_Site.dll
+C:\Users\gs_ec\Desktop\Neşet\Proje\My_Web_Site\My_Web_Site\bin\My_Web_Site.pdb
+C:\Users\gs_ec\Desktop\Neşet\Proje\My_Web_Site\My_Web_Site\bin\My_Web_Site.xml
+C:\Users\gs_ec\Desktop\Neşet\Proje\My_Web_Site\My_Web_Site\obj\Debug\My_Web_Site.vbprojResolveAssemblyReference.cache
+C:\Users\gs_ec\Desktop\Neşet\Proje\My_Web_Site\My_Web_Site\obj\Debug\My_Web_Site.Resources.resources
+C:\Users\gs_ec\Desktop\Neşet\Proje\My_Web_Site\My_Web_Site\obj\Debug\My_Web_Site.vbproj.GenerateResource.Cache
+C:\Users\gs_ec\Desktop\Neşet\Proje\My_Web_Site\My_Web_Site\obj\Debug\My_Web_Site.dll
+C:\Users\gs_ec\Desktop\Neşet\Proje\My_Web_Site\My_Web_Site\obj\Debug\My_Web_Site.xml
+C:\Users\gs_ec\Desktop\Neşet\Proje\My_Web_Site\My_Web_Site\obj\Debug\My_Web_Site.pdb
+C:\Users\cansa\Desktop\Kişisel Site - CV-\My_Web_Site\bin\My_Web_Site.dll.config
+C:\Users\cansa\Desktop\Kişisel Site - CV-\My_Web_Site\bin\My_Web_Site.dll
+C:\Users\cansa\Desktop\Kişisel Site - CV-\My_Web_Site\bin\My_Web_Site.pdb
+C:\Users\cansa\Desktop\Kişisel Site - CV-\My_Web_Site\bin\My_Web_Site.xml
+C:\Users\cansa\Desktop\Kişisel Site - CV-\My_Web_Site\obj\Debug\My_Web_Site.Resources.resources
+C:\Users\cansa\Desktop\Kişisel Site - CV-\My_Web_Site\obj\Debug\My_Web_Site.vbproj.GenerateResource.Cache
+C:\Users\cansa\Desktop\Kişisel Site - CV-\My_Web_Site\obj\Debug\My_Web_Site.dll
+C:\Users\cansa\Desktop\Kişisel Site - CV-\My_Web_Site\obj\Debug\My_Web_Site.xml
+C:\Users\cansa\Desktop\Kişisel Site - CV-\My_Web_Site\obj\Debug\My_Web_Site.pdb
+C:\Users\cansa\Desktop\Kişisel Site - CV-\My_Web_Site\obj\Debug\My_Web_Site.vbprojAssemblyReference.cache
+C:\Users\cansa\Desktop\Kişisel Site - CV-\My_Web_Site\obj\Debug\My_Web_Site.vbproj.CoreCompileInputs.cache
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Kişisel Site - CV-\My_Web_Site\bin\My_Web_Site.dll.config
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Kişisel Site - CV-\My_Web_Site\bin\My_Web_Site.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Kişisel Site - CV-\My_Web_Site\bin\My_Web_Site.pdb
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Kişisel Site - CV-\My_Web_Site\bin\My_Web_Site.xml
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Kişisel Site - CV-\My_Web_Site\obj\Debug\My_Web_Site.vbproj.AssemblyReference.cache
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Kişisel Site - CV-\My_Web_Site\obj\Debug\My_Web_Site.Resources.resources
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Kişisel Site - CV-\My_Web_Site\obj\Debug\My_Web_Site.vbproj.GenerateResource.cache
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Kişisel Site - CV-\My_Web_Site\obj\Debug\My_Web_Site.vbproj.CoreCompileInputs.cache
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Kişisel Site - CV-\My_Web_Site\obj\Debug\My_Web_Site.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Kişisel Site - CV-\My_Web_Site\obj\Debug\My_Web_Site.xml
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Kişisel Site - CV-\My_Web_Site\obj\Debug\My_Web_Site.pdb
